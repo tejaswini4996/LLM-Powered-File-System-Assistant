@@ -1,0 +1,13 @@
+Jane Smith
+
+Python Developer
+
+Skills:
+Python
+FastAPI
+AWS
+Docker
+
+Experience:
+6 years of backend development
+using Python and AWS.

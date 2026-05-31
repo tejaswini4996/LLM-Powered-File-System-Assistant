@@ -1,0 +1,13 @@
+John Doe
+
+Backend Developer
+
+Skills:
+Python
+FastAPI
+AWS
+Docker
+
+Experience:
+3 years of backend development
+using Python and AWS.
